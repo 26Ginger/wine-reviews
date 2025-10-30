@@ -25,14 +25,14 @@
 
 ## 📁 Структура проекта
 
-wine-analysis/
-├── data/
-├── notebooks/
-│ ├── 01_Data_Preprocessing.ipynb ✅ Готово
-│ ├── 02_EDA_Analysis.ipynb 🔄 В процессе
-│ ├── 03_Market_Structure_Hypothesis.ipynb ⏳ В планах
-│ └── 04_ML_Models.ipynb ⏳ В планах
-└── README.md
+wine-analysis/  
+├── data/  
+├── notebooks/  
+│ ├── 01_Data_Preprocessing.ipynb ✅ Готово  
+│ ├── 02_EDA_Analysis.ipynb 🔄 В процессе  
+│ ├── 03_Market_Structure_Hypothesis.ipynb ⏳ В планах  
+│ └── 04_ML_Models.ipynb ⏳ В планах  
+└── README.md  
 
 
 
