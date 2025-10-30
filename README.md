@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-orange)](https://pandas.pydata.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Анализ данных о винах для выявления ключевых факторов, влияющих на цену и рейтинг продукции. Сравнительный анализ традиционных винодельческих регионов (Старый Свет) и новых рынков (Новый Свет).
 
