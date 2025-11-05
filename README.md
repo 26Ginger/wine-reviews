@@ -29,8 +29,8 @@ wine-analysis/
 ├── data/  
 ├── notebooks/  
 │ ├── 01_Data_Preprocessing.ipynb ✅ Готово  
-│ ├── 02_EDA_Analysis.ipynb 🔄 В процессе  
-│ ├── 03_Market_Structure_Hypothesis.ipynb ⏳ В планах  
+│ ├── 02_EDA_Analysis.ipynb ✅ Готово   
+│ ├── 03_Market_Structure_Hypothesis.ipynb 🔄 В процессе  
 │ └── 04_ML_Models.ipynb ⏳ В планах  
 └── README.md  
 
@@ -46,7 +46,7 @@ wine-analysis/
 - Анализ базовой статистики
 - Сохранение очищенного набора данных
 
-### 2. [`02_EDA_Analysis.ipynb`](notebooks/02_EDA_Analysis.ipynb) 🔄
+### 2. [`02_EDA_Analysis.ipynb`](notebooks/02_EDA_Analysis.ipynb) ✅
 **Задачи этапа:**
 - Анализ распределений цен и рейтингов
 - Исследование географического распределения
@@ -54,7 +54,7 @@ wine-analysis/
 - Корреляционный анализ
 - Визуализация ключевых инсайтов
 
-### 3. [`03_Market_Structure_Hypothesis.ipynb`](notebooks/03_Market_Structure_Hypothesis.ipynb) ⏳
+### 3. [`03_Market_Structure_Hypothesis.ipynb`](notebooks/03_Market_Structure_Hypothesis.ipynb) 🔄
 **Задачи этапа:**
 - Сравнение Старого и Нового Света
 - Проверка статистических гипотез
